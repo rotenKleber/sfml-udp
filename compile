@@ -1,0 +1,1 @@
+g++ *.cpp -l sfml-system -l sfml-network --std=c++11
